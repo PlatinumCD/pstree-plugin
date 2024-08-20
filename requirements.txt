@@ -1,0 +1,2 @@
+psutil
+pywaggle==0.55.*
